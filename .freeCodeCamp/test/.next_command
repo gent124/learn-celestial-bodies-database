@@ -69,3 +69,7 @@ touch universe.sql
 psql -U postgres < universe.sql
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+git push
+git push
+git push
+git add .
